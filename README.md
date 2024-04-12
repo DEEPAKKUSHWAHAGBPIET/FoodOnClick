@@ -1,3 +1,13 @@
+# Application home page..........
+![Screenshot (1522)](https://github.com/DEEPAKKUSHWAHAGBPIET/FoodOnClick/assets/51187511/ceab0cfd-d9f8-4010-9025-94ddeb303e68)
+
+![Screenshot (1524)](https://github.com/DEEPAKKUSHWAHAGBPIET/FoodOnClick/assets/51187511/b8835ca9-d5a5-4756-af66-bb4fb7050e5e)
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
